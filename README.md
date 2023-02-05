@@ -10,10 +10,16 @@ The purpose of this challenge was to perform an analysis on credit card risk for
     
     - Random Oversampling
         - Classified 51,366 records each as High Risk and Low Risk. 
+        ![image](https://user-images.githubusercontent.com/111200771/216797423-bce8d684-1021-4916-930c-3d77919e7c28.png)
+
  
     * Balanced Accuracy score = 66.5%
     * "High Risk" had a precision rate of 1%, recall of 72% and a model F1 score of 2%
     * "Low Risk" had a precision rate of 100%, recall of 61%.
+    ![image](https://user-images.githubusercontent.com/111200771/216797434-42377385-11e5-4101-a9ee-1203da32d2fe.png)
+
+![image](https://user-images.githubusercontent.com/111200771/216797450-3d3a37ac-c27a-44ca-aedb-30c7fa2401cd.png)
+
 
     - SMOTE Oversampling
         - Classified 51,366 records each as High Risk and Low Risk. 
