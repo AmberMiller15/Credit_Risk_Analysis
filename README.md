@@ -86,7 +86,7 @@ The purpose of this challenge was to perform an analysis on credit card risk for
     
     ![image](https://user-images.githubusercontent.com/111200771/216797700-0d350dc5-df6e-4c7b-baca-0a5d36f3ed9c.png)
     
-![image](https://user-images.githubusercontent.com/111200771/216797724-cb569a69-2b41-4bb0-8aa6-3dc082feb1ba.png)
+    ![image](https://user-images.githubusercontent.com/111200771/216797724-cb569a69-2b41-4bb0-8aa6-3dc082feb1ba.png)
 
 ## Summary
 After reviewing the results of the six different models, the EasyEnsembleClassifier model yeilded the best results with a precision rate of 9% and an accuracy score of 93.3% when predicting "High Risk" candidates. This model also yeild the best result for predicting "Low Risk" candidates with a sensitivity of 94% and an F1 score of 97%. The recommendation on which model to use when predicting the risk of loan candidates is to use the EasyEnsembleClassifier model. 
