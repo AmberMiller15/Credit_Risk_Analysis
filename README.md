@@ -22,7 +22,6 @@ The purpose of this challenge was to perform an analysis on credit card risk for
 
    - SMOTE Oversampling
         - Classified 51,366 records each as High Risk and Low Risk. 
-        
     ![image](https://user-images.githubusercontent.com/111200771/216797509-7a837e54-8b28-4cad-9367-d6c55793a9a9.png)
 
    * Balanced Accuracy score = 65.3%
